@@ -1,0 +1,32 @@
+button {
+    background-color: #003366; /* Dark Blue */
+    color: #FFFFFF; /* White text */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #66B2FF; /* Light Blue on hover */
+}
+
+a {
+    color: #66B2FF; /* Light Blue */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #003366; /* Dark Blue */
+}
+
+.nav a {
+    color: #FFFFFF; /* White text */
+}

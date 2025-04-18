@@ -1,0 +1,13 @@
+html, body {
+    height: 100%; /* Ensure the body takes full height */
+    margin: 0; /* Remove default margin */
+    border: 5px solid #003366; /* Dark Blue border for the complete page */
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: #F5F5F5; /* Light Gray */
+    color: #333333; /* Dark Gray */
+    padding: 10px;
+}
